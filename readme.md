@@ -56,7 +56,7 @@
 ## Architecture Overview
 
 <p align="center">
-    <img alt="architecture overview" src="https://github.com/JohnSalazar/microservices-go-cart/assets/16736914/036ecae7-63fa-49be-9e02-3f23f2e545e0" />
+    <img alt="architecture overview" src="https://github.com/JohnSalazar/microservices-go-customer/assets/16736914/2fa3bce9-d4fe-4ea5-b846-c36b4c006f9d" />
 </p>
 
 ---
@@ -78,4 +78,4 @@
 
 ## About
 
-Customer service was developed by [oceano.dev](https://oceano.dev/) <img alt="Brasil" src="https://github.com/JohnSalazar/microservices-go-cart/assets/16736914/13506b2b-2e31-44ff-828c-f793e8bbce2e" width="20" height="14" /> team under the [MIT license](LICENSE).
+Customer service was developed by [oceano.dev](https://oceano.dev/) <img alt="Brasil" src="https://github.com/JohnSalazar/microservices-go-customer/assets/16736914/6331d8be-436f-46bb-aea9-655e9a48d279" width="20" height="14" /> team under the [MIT license](LICENSE).
