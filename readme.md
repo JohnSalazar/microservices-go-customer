@@ -66,7 +66,7 @@
 ### This service is part 3/8 of the e-commerce application
 
 - [Authentication](https://github.com/JohnSalazar/microservices-go-authentication)
-- Email
+- [Email](https://github.com/JohnSalazar/microservices-go-email)
 - **Customer**
 - Product
 - [Cart](https://github.com/JohnSalazar/microservices-go-cart)
