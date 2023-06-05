@@ -8,6 +8,7 @@
 
 ## Implementations
 
+- JWT with Public Key Rotation
 - Rest
 - GRPC
 - Events
@@ -69,7 +70,7 @@
 - [Authentication](https://github.com/JohnSalazar/microservices-go-authentication)
 - [Email](https://github.com/JohnSalazar/microservices-go-email)
 - **Customer**
-- Product
+- [Product](https://github.com/JohnSalazar/microservices-go-product)
 - [Cart](https://github.com/JohnSalazar/microservices-go-cart)
 - [Order](https://github.com/JohnSalazar/microservices-go-order)
 - [Payment](https://github.com/JohnSalazar/microservices-go-payment)
