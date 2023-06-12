@@ -3,7 +3,7 @@ package validators
 import (
 	"customer/src/dtos"
 
-	common_validator "github.com/oceano-dev/microservices-go-common/validators"
+	common_validator "github.com/JohnSalazar/microservices-go-common/validators"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

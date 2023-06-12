@@ -8,13 +8,13 @@ import (
 	"customer/src/validators"
 	"net/http"
 
+	"github.com/JohnSalazar/microservices-go-common/config"
+	"github.com/JohnSalazar/microservices-go-common/helpers"
+	httputil "github.com/JohnSalazar/microservices-go-common/httputil"
+	common_nats "github.com/JohnSalazar/microservices-go-common/nats"
+	common_security "github.com/JohnSalazar/microservices-go-common/security"
+	trace "github.com/JohnSalazar/microservices-go-common/trace/otel"
 	"github.com/gin-gonic/gin"
-	"github.com/oceano-dev/microservices-go-common/config"
-	"github.com/oceano-dev/microservices-go-common/helpers"
-	httputil "github.com/oceano-dev/microservices-go-common/httputil"
-	common_nats "github.com/oceano-dev/microservices-go-common/nats"
-	common_security "github.com/oceano-dev/microservices-go-common/security"
-	trace "github.com/oceano-dev/microservices-go-common/trace/otel"
 )
 
 type CustomerController struct {

@@ -93,8 +93,8 @@ require (
 )
 
 require (
+	github.com/JohnSalazar/microservices-go-common v0.0.0-20230612135818-acdb75f09cf2
 	github.com/gin-contrib/location v0.0.2
 	github.com/hashicorp/consul/api v1.20.0
-	github.com/oceano-dev/microservices-go-common v1.0.1-0.20230530133617-471e5cc99e77
 	go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin v0.32.0
 )
